@@ -14,7 +14,7 @@ Yorum alan şirket/şahıs için ürün/hizmetinin memnuniyet düzeyini tespit e
 Yarışma startı verildikten sonra Çalışma süresini 4 (dört) ana bölüme ayırdım. Her bir bölüm 5 x 3 = 15 birimlik parçalara ayırdım.
 
 [is_akisi_gantt]
-<img src='/SmartSelect_20240809_093532_Slides' />
+<img src='https://raw.githubusercontent.com/overfatih/TDDI_2024/main/SmartSelect_20240809_093532_Slides.jpg' />
 ## Veri Seti
 Kullanılan veri seti için öncelikle sosyal medya üzerinden web scraping çalışmaları yapıldı. Kaggle platformundan ilgili veri setleri tarandı. Son olarak mağaza yorumlarından duygu analizi veri setine (11429) ulaşıldı. Null veri temizlendikten sonra Olumlu (4252), Olumsuz(4237) ve nötr(2937) olarak etiketlenen veri seti ön işlemeden geçirildi. Train test ederken Colab sistemi butun verileri train edemeyerek hata verdi. Cozum olarak veri setini random 500 olumlu, 500 olumsuz ve 500 notr olacak şekile indirgendi. 
 
